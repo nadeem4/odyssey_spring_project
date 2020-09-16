@@ -1,0 +1,34 @@
+[
+  {
+    "userId": "0",
+    "username": "MR",
+    "firstName": "Mike",
+    "lastName": "Ross",
+    "hashedPass": "",
+    "roles": ["admin"]
+  },
+  {
+    "userId": "1",
+    "username": "HS",
+    "firstName": "Harvey",
+    "lastName": "Specter",
+    "hashedPass": "",
+    "roles": ["reader"]
+  },
+  {
+    "userId": "2",
+    "username": "R",
+    "firstName": "Robert",
+    "lastName": "",
+    "hashedPass": "",
+    "roles": ["editor"]
+  },
+  {
+    "userId": "3",
+    "username": "AW",
+    "firstName": "Alex",
+    "lastName": "Williams",
+    "hashedPass": "",
+    "roles": ["admin"]
+  }
+]
